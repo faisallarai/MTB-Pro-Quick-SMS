@@ -1,18 +1,7 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Description
+This is a very simple mobile application which demonstrates sending SMS via MYtxtBOX Pro API (http://pro.mytxtbox.com) using Appcelarator Titanium (http://www.appcelerator.com/) Development Environment
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+API Reference Guide 
+http://pro.mytxtbox.com/downloads/MYtxtBOX%20Pro%20Account%20API.pdf
 
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
 
